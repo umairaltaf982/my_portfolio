@@ -1,0 +1,156 @@
+body {
+    color: #f0f0f0;
+}
+
+.header {
+    background-color: #1a1a2e;
+}
+
+.logo {
+    color: white;
+}
+
+.menubar a {
+    color: white;
+}
+
+.menubar a:hover {
+    color: #64ffda;
+}
+
+.sub {
+    background: #0f4c75;
+    color: white;
+}
+
+.sub:hover {
+    border: 2px solid #64ffda;
+    background: #1a1a2e;
+}
+
+.home-content h3 {
+    -webkit-text-stroke: 0.7px #64ffda;
+    background-image: linear-gradient(#64ffda, #64ffda);
+}
+
+.btn-box a {
+    background: #0f4c75;
+    border: 2px solid #64ffda;
+    color: white;
+}
+
+.btn-box a:hover {
+    color: #64ffda;
+    background-color: #1a1a2e;
+}
+
+.btn-box a:nth-child(1) {
+    background: transparent;
+    color: #64ffda;
+}
+
+.home-sci a {
+    color: #64ffda;
+    border: 2px solid #64ffda;
+}
+
+.home-sci a:hover {
+    background-color: #64ffda;
+    color: #1a1a2e;
+}
+
+.services {
+    background: #16213e;
+}
+
+.service-info {
+    border-left: 2px solid #64ffda;
+}
+
+.service-info h3 {
+    color: #64ffda;
+}
+
+.portfolio {
+    background: #1a1a2e;
+}
+
+.portfolio-info {
+    border-left: 2px solid #64ffda;
+}
+
+.portfolio-info h3 {
+    color: #64ffda;
+}
+
+.portfolio-info a {
+    background: #1a1a2e;
+    border: 2px solid #64ffda;
+    color: #64ffda;
+}
+
+.portfolio-info a:hover {
+    background-color: #64ffda;
+    color: #1a1a2e;
+}
+
+.arrow-btn {
+    background-color: #00abf0;
+    color: white;
+}
+
+.timeline {
+    background: #16213e;
+}
+
+.timeline-box .timeline-content {
+    border-left: 2px solid #64ffda;
+}
+
+.timeline-content .content {
+    border: 2px solid #64ffda;
+}
+
+.timeline-content .content:hover {
+    background: #1a1a2e;
+}
+
+.timeline-content .content .year {
+    color: #64ffda;
+}
+
+.contact {
+    background-color: #1a1a2e;
+}
+
+input {
+    background-color: #1a1a2e;
+    border: 2px solid #64ffda;
+    color: white;
+}
+
+input:hover {
+    border-color: #64ffda;
+}
+
+textarea {
+    background-color: #1a1a2e;
+    border: 2px solid #64ffda;
+    color: white;
+}
+
+.send-btn button {
+    background-color: #1a1a2e;
+    border: 2px solid #64ffda;
+    color: white;
+}
+
+.send-btn button:hover {
+    background-color: #64ffda;
+    color: #1a1a2e;
+}
+
+input:focus,
+textarea:focus {
+    border: 2px solid #64ffda;
+}
